@@ -12,11 +12,13 @@ const Login = () => {
   
   const navigate = useNavigate();
 
+  //when redirected to login page it clears all sessionStorage data which disables user to navigate to the home page .
   useEffect(()=>{
     sessionStorage.clear();
     console.log("sessionStorageCleared");
   },[])
-  // Consider using techniques like hashing and salting passwords before storing them and when comparing them during login.
+  
+  // using techniques like hashing and salting passwords before storing them and when comparing them during login.
   
   const proceedLogin = ()=>{
 
