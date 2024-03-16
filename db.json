@@ -1,5 +1,5 @@
 {
-  "users": [    
+  "users": [
     {
       "id": "99d4",
       "username": "chandrani_rakshit",
@@ -10,6 +10,17 @@
       "email": "chandranibony@gmail.com",
       "country": "portugal",
       "gender": "female"
+    },
+    {
+      "id": "a628",
+      "username": "sailendra_rakshit",
+      "password": "09876",
+      "fullname": "Sailendra Rakshit",
+      "phoneNo": "9434251862",
+      "address": "Angadpur School Para, Gopal Bhawan, durgapur-05",
+      "email": "ponikrakshit@yopmail.com",
+      "country": "sweden",
+      "gender": "male"
     }
   ]
 }
