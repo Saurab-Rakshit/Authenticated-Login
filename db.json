@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "518b",
+      "username": "john_doe",
+      "fullname": "John Doe",
+      "email": "john@yopmail.com",
+      "phoneNo": "9434251862",
+      "address": "DVC, DTPS, MAya bazaar",
+      "password": "john",
+      "gender": "male",
+      "country": "portugal"
+    },
+    {
+      "id": "7f47",
+      "username": "vivek_thakur",
+      "fullname": "Vivek Thakur",
+      "email": "vivek@yahoo.com",
+      "phoneNo": "79088888345",
+      "address": "bokaro steel city",
+      "password": "123456",
+      "gender": "male",
+      "country": "sweden"
+    },
+    {
+      "id": "658f",
+      "username": "mrinal_gayen",
+      "fullname": "Mrinal Gayen",
+      "email": "mrinal@yopmail.com",
+      "phoneNo": "8906063908",
+      "address": "along, arunachal Pradesh",
+      "password": "0987654",
+      "gender": "male",
+      "country": "malta"
+    },
+    {
+      "id": "5ed9",
+      "username": "falguni_rakshit",
+      "password": "0987654321",
+      "fullname": "Falguni Rakshit",
+      "phoneNo": "9876543212345678",
+      "address": "EA-49, Chemicals Colony",
+      "email": "falguni@yopmail.com",
+      "country": "sweden",
+      "gender": "female"
+    },
+    {
+      "id": "b156",
+      "username": "babu_bhai",
+      "password": "123",
+      "fullname": "Babu Bhai",
+      "phoneNo": "9434251862",
+      "address": "54 ft, 3B/33, benachity",
+      "email": "babu@gamil.com",
+      "country": "sweden",
+      "gender": "male"
+    },
+    {
+      "id": "99d4",
+      "username": "chandrani_rakshit",
+      "password": "SAURab19@",
+      "fullname": "Chandrani Rakshit",
+      "phoneNo": "7908883267",
+      "address": "54 feet, 3B/33, Tulsi Bhandar Lane, Shrinagar Pally, Benachity, Durgapur, Paschim Burdwan, West Bengal",
+      "email": "chandranibony@gmail.com",
+      "country": "portugal",
+      "gender": "female"
+    }
+  ]
+}
