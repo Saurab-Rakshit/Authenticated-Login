@@ -74,7 +74,10 @@ const Login = () => {
 
   return (
     <>
-      <div className="flex flex-col items-center pt-20 pb-2">
+      <div className='text-center text-3xl font-mono text-green-500 font-bold mt-20'>
+        Login to you account.
+      </div>
+      <div className="flex flex-col items-center pt-10 pb-2">
         <div className="mb-4">
           <label
             htmlFor="username"
