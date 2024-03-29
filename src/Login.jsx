@@ -3,6 +3,8 @@ import { Link,useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import axios from 'axios';
 
+// /for starting server : json-server --watch db.json --port 3001
+
 const Login = () => {
 
   const [loginData,setLoginData] = useState({
